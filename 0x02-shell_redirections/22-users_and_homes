@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -d":" --fileds1,6 /etc/passwd
